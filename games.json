@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Super Mario World",
+        "emulator": "snes",
+        "download_link": "https://example.com/roms/super_mario_world.zip",
+        "image": "https://example.com/images/super_mario_world.png"
+    },
+    {
+        "title": "The Legend of Zelda: A Link to the Past",
+        "emulator": "snes",
+        "download_link": "https://example.com/roms/zelda_link_to_the_past.zip",
+        "image": "https://example.com/images/zelda_link_to_the_past.png"
+    },
+    {
+        "title": "Pokemon Red",
+        "emulator": "gba",
+        "download_link": "https://example.com/roms/pokemon_red.zip",
+        "image": "https://example.com/images/pokemon_red.png"
+    }
+]
