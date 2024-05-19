@@ -1,15 +1,15 @@
 [
     {
-        "title": "Super Mario World",
-        "emulator": "snes",
-        "download_link": "https://example.com/roms/super_mario_world.zip",
-        "image": "https://example.com/images/super_mario_world.png"
+        "title": "Pokémon Edicion Platino",
+        "emulator": "nds",
+        "download_link": "https://downloads.retrostic.com/roms/3787%20-%20Pokemon%20-%20Edicion%20Platino%20%28ES%29%28Independent%29.7z",
+        "image": "https://www.retrostic.com/img/screenshots/pokemon-edicion-platino-thumb.jpg"
     },
     {
-        "title": "The Legend of Zelda: A Link to the Past",
-        "emulator": "snes",
-        "download_link": "https://example.com/roms/zelda_link_to_the_past.zip",
-        "image": "https://example.com/images/zelda_link_to_the_past.png"
+        "title": "Super Puzzle Fighter II Turbo",
+        "emulator": "gba",
+        "download_link": "blob:https://web.telegram.org/fd8fb6b4-010c-4edc-b407-4cace78ffb8d",
+        "image": "https://assets-prd.ignimgs.com/2022/07/27/superpuzzleii-1658880299189.jpg"
     },
     {
         "title": "Pokemon Red",
