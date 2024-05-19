@@ -1,20 +1,4 @@
-[
-    {
-        "title": "Pokémon Edicion Platino",
-        "emulator": "nds",
-        "download_link": "https://downloads.retrostic.com/roms/3787%20-%20Pokemon%20-%20Edicion%20Platino%20%28ES%29%28Independent%29.7z",
-        "image": "https://www.retrostic.com/img/screenshots/pokemon-edicion-platino-thumb.jpg"
-    },
-    {
-        "title": "Super Puzzle Fighter II Turbo",
-        "emulator": "gba",
-        "download_link": "blob:https://web.telegram.org/fd8fb6b4-010c-4edc-b407-4cace78ffb8d",
-        "image": "https://assets-prd.ignimgs.com/2022/07/27/superpuzzleii-1658880299189.jpg"
-    },
-    {
-        "title": "Pokemon Red",
-        "emulator": "gba",
-        "download_link": "https://example.com/roms/pokemon_red.zip",
-        "image": "https://example.com/images/pokemon_red.png"
-    }
-]
+title,emulator,download_link,image
+"Pokémon Edicion Platino","nds","https://downloads.retrostic.com/roms/3787%20-%20Pokemon%20-%20Edicion%20Platino%20%28ES%29%28Independent%29.7z","https://www.retrostic.com/img/screenshots/pokemon-edicion-platino-thumb.jpg"
+"Super Puzzle Fighter II Turbo","gba","blob:https://web.telegram.org/fd8fb6b4-010c-4edc-b407-4cace78ffb8d","https://assets-prd.ignimgs.com/2022/07/27/superpuzzleii-1658880299189.jpg"
+"Pokemon Red","gba","https://example.com/roms/pokemon_red.zip","https://example.com/images/pokemon_red.png"
